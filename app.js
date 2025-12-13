@@ -6,7 +6,7 @@ import { getDatabase } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-
 
     var firebaseConfig = {
     apiKey: "AIzaSyCH-8O3md6MKiE-vWSVSt6HiScVRgaviHc",
-    authDomain: "instagram-86afa.firebaseapp.com",
+    authDomain: "jade-tanuki-a948e4.netlify.app",
     databaseURL: "https://instagram-86afa-default-rtdb.firebaseio.com",
     projectId: "instagram-86afa",
     storageBucket: "instagram-86afa.firebasestorage.app",
