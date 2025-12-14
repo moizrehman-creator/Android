@@ -2,8 +2,8 @@
 
     var firebaseConfig = {
   apiKey: "AIzaSyCH-8O3md6MKiE-vWSVSt6HiScVRgaviHc",
-  authDomain: "soft-pudding-14ca52.netlify.app",
-  databaseURL: "instagram-86afa-default-rtdb.firebaseio.com",
+  authDomain: "",
+  databaseURL: "https://instagram-86afa-default-rtdb.firebaseio.com",
   projectId: "instagram-86afa",
   storageBucket: "instagram-86afa.firebasestorage.app",
   messagingSenderId: "575014280234",
