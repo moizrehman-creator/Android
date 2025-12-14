@@ -1,13 +1,13 @@
 ///Edit Under This only
 
     var firebaseConfig = {
-  apiKey: "AIzaSyAqV2dqIKehmDN2K1x5yfGXPPo91LJckdI",
+  apiKey: "AIzaSyCH-8O3md6MKiE-vWSVSt6HiScVRgaviHc",
   authDomain: "instagram-86afa.firebaseapp.com",
   databaseURL: "instagram-86afa-default-rtdb.firebaseio.com",
   projectId: "instagram-86afa",
   storageBucket: "instagram-86afa.firebasestorage.app",
   messagingSenderId: "575014280234",
-  appId: "1:575014280234:web:20929fb19bfd1ddc323753",
+  appId: "1:575014280234:android:587327854fc7f6a2323753",
   measurementId: "G-1ZG3MPTGG7"
   }; 
  
